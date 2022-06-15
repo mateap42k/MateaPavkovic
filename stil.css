@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+font-size: 20px;
+width: 1300px;
+background-color: cornsilk;
+padding: 20px
+}
+h1,h2,h3 {
+	font-family: clara; color: sienna;
+}
+body {
+	background-image: url(slike/pozadina.jpg);
+}
+
+a:link {
+	color: brown; 
+	background-color: antiquewhite; 
+	padding: 1px; 
+	line-height: 38px; 
+	border: 1px solid#FFFFFF;
+}
+
+img{
+	height: 400px;
+}
